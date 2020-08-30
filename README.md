@@ -6,4 +6,3 @@
 :heavy_check_mark: Exercitarei meu conhecimento em python por meio da resolução de exercicios que encontro na internet. Procurarei sempre atualizar e melhorar os codigos conforme expandir meus conhecimento
 
 
-<p align="justify">Exercitarei meu conhecimento em python por meio da resolução de exercicios que encontro na internet. Procurarei sempre atualizar e melhorar os codigos conforme expandir meus conhecimentos</p>
